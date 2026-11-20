@@ -1,0 +1,4 @@
+numpy
+Pillow
+customtkinter
+neural-network-from-scratch @ git+https://github.com/ccargil1/neural-network-from-scratch.git
